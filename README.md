@@ -16,3 +16,5 @@ Organização do seu código. Quebre seu site em componentes. Prefira componente
 
 Que arraso, Pablo Landim de Sá ! Você conseguiu a nota máxima neste projeto!
 #VQV!
+
+![Jupiter](./public/planets/Jupiter.png)
